@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">MERN Stack Developer | Learning Java & DSA | Open to Web Development Roles  | With following skills set:-</h4>
+<h3 align="left">MERN Stack Developer | Learning Java & DSA | Open to Web Development Roles  | With following skills set:-</h4>
 
 ###
 
