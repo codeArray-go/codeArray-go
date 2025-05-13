@@ -42,7 +42,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ codeArray-go / codeArray-go /main/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ codeArray-go / codeArray-go /output/snake.svg" alt="Snake animation" />
 
 ###
 
