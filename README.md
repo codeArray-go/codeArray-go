@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codearray-go" alt="codearray-go" /></a> </p>
 
-- 🔭 I’m currently working on [My Web-Lab project](https://github.com/codeArray-go/My_Weblab_Front-end.git)
+- 🔭 I’m currently working on [Chween (A real time chat webApp)](https://chat-app-one-tau-18.vercel.app/)
 
 - 🌱 I’m currently learning **Java, Spring Boot, Postgress**
 
