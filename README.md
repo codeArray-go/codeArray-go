@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhil Singh Bhandari</h1>
-<h3 align="center">MERN Stack Developer | Having good command on Java | Open to Web Development Roles</h3>
+<h3 align="center">MERN Stack Developer || SQL || PostgreSQL || Having good command on Java || Open to Web Development Roles</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codearray-go&label=Profile%20views&color=0e75b6&style=flat" alt="codearray-go" /> </p>
 
