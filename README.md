@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Chween (A real time chat webApp)](https://chat-app-one-tau-18.vercel.app/)
 
-- 🌱 I’m currently learning **Java, Spring Boot, Postgress**
+- 🌱 I’m currently learning **Dart, Flutter**
 
 - 👨‍💻 PortFolio [https://my-port-folio-dun-three.vercel.app/](https://my-port-folio-dun-three.vercel.app/)
 
-- 💬 Ask me about **Java, React, Node**
+- 💬 Ask me about **JavaScript, Java, React, Node**
 
 - 📫 How to reach me **akhibhandari585@gmail.com**
 
