@@ -37,34 +37,23 @@ I have been learning from last 2-3 years, with having good command on Full stack
 </picture>
 </a>
 </p>
-
-### Badges
+<br />
 
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/codeArray-go">
-<img src="https://github-readme-stats.vercel.app/api?username=codeArray-go&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=codeArray-go&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
-
 <a href="https://github.com/codeArray-go">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeArray-go&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codeArray-go&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
-
+<br /><br />
 <b>Top Repositories</b>
-
 <div align="center">
-<a href="https://github.com/codeArray-go/Chat_App">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=codeArray-go&repo=Chat_App&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/codeArray-go/AllLinks">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=codeArray-go&repo=AllLinks&theme=tokyonight&hide_border=true" />
-</a>
-<br><br>
-<a href="https://github.com/codeArray-go/My-PortFolio">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=codeArray-go&repo=My-PortFolio&theme=tokyonight&hide_border=true" />
-</a>
+	<a href="https://github.com/codeArray-go/Chat_App">
+	  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=codeArray-go&repo=Chat_App&theme=tokyonight&hide_border=true" />
+	</a>
+	<a href="https://github.com/codeArray-go/AllLinks">
+	  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=codeArray-go&repo=AllLinks&theme=tokyonight&hide_border=true" />
+	</a>
 </div>
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/github.com/codeArray-go/My-PortFolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=github.com/codeArray-go&repo=My-PortFolio&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&locale=en" /></a></div>
