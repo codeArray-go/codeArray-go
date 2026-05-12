@@ -10,7 +10,7 @@ Building scalable backend systems, and modern cross-platform experiences.
 ## About Me
 
 - 💻 **Full Stack Developer** specializing in the MERN stack, Next.js, and PostgreSQL.
-- **Currently Building:** A real-time chat application and architecting cloud-storage.
+- **Currently Building:** A Transection Tracker application.
 - 📱 **Mobile Dev:** Implements cross-platform mobile frontends using Flutter and Dart.
 - **Focus:** Scalable architectures, clean dark-themed UI design, and problem-solving through hands-on development.
 
