@@ -9,10 +9,10 @@ Building scalable backend systems, and modern cross-platform experiences.
 
 ## About Me
 
-- 💻 **Full Stack Developer** specializing in the MERN stack, Next.js, and PostgreSQL.
+- 💻 **Full Stack Developer** specializing in the Flutter, MERN stack, Next.js, and PostgreSQL.
 - **Currently Building:** A Transection Tracker application.
 - 📱 **Mobile Dev:** Implements cross-platform mobile frontends using Flutter and Dart.
-- **Focus:** Scalable architectures, clean dark-themed UI design, and problem-solving through hands-on development.
+- **Focus:** Scalable architectures, clean dark-themed UI design, and problem-solving.
 
 ---
 
@@ -40,8 +40,8 @@ Building scalable backend systems, and modern cross-platform experiences.
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=codeArray-go&repo=Chat_App&theme=tokyonight&hide_border=true&description_lines=2" />
 </a>
 
-<a href="https://github.com/codeArray-go/AllLinks">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=codeArray-go&repo=AllLinks&theme=tokyonight&hide_border=true&description_lines=2" />
+<a href="https://github.com/codeArray-go/transections-tracker">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=codeArray-go&repo=transections-tracker&theme=tokyonight&hide_border=true&description_lines=2" />
 </a>
 
 </div>
