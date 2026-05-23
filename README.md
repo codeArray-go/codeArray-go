@@ -9,7 +9,7 @@ Building scalable backend systems, and modern cross-platform experiences.
 
 ## About Me
 
-- 💻 **Full Stack Developer** specializing in the Flutter, MERN stack, Next.js, and PostgreSQL.
+- 💻 **Full Stack Developer** specializing in Rust, Flutter, MERN stack, and PostgreSQL.
 - **Currently Building:** A Transection Tracker application.
 - 📱 **Mobile Dev:** Implements cross-platform mobile frontends using Flutter and Dart.
 - **Focus:** Scalable architectures, clean dark-themed UI design, and problem-solving.
@@ -20,7 +20,7 @@ Building scalable backend systems, and modern cross-platform experiences.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,postgres,mongodb,redis,java,flutter,dart,tailwind,docker,git,linux,cloudflare" />
+<img src="https://skillicons.dev/icons?i=rust,js,ts,react,next,nodejs,express,postgres,mongodb,redis,java,flutter,dart,tailwind,docker,git,linux,cloudflare" />
 
 </p>
 
