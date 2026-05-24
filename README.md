@@ -16,18 +16,95 @@ Building scalable backend systems, and modern cross-platform experiences.
 
 ---
 
-## Tech Stack
+<h2>Tech Stack</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+      <br><strong>Rust</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br><strong>TypeScript</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br><strong>Java</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+      <br><strong>Dart</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br><strong>Git</strong>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br><strong>React</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="Next.js" />
+      <br><strong>Next.js</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br><strong>Tailwind</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+      <br><strong>Flutter</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br><strong>Express</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br><strong>MongoDB</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br><strong>Redis</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br><strong>Docker</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
+      <br><strong>Cloudflare</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br><strong>Linux</strong>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=rust,js,ts,react,next,nodejs,express,postgres,mongodb,redis,java,flutter,dart,tailwind,docker,git,linux,cloudflare" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Cloudinary-Full%20Media%20Management-blue?style=for-the-badge&logo=cloudinary&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Cloudinary-Full%20Media%20Management-blue?style=for-the-badge&logo=cloudinary&logoColor=white" />
 </p>
 
 ---
