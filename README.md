@@ -103,9 +103,6 @@ Building scalable backend systems, and modern cross-platform experiences.
 
 <br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloudinary-Full%20Media%20Management-blue?style=for-the-badge&logo=cloudinary&logoColor=white" />
-</p>
 
 ---
 
