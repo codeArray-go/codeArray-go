@@ -10,7 +10,7 @@ Building scalable backend systems, and modern cross-platform experiences.
 ## About Me
 
 - 💻 **Full Stack Developer** specializing in Rust, Flutter, MERN stack, and PostgreSQL.
-- **Currently Building:** A Transection Tracker application.
+- **Currently Building:** Bitcoin in Rust from scratch.
 - 📱 **Mobile Dev:** Implements cross-platform mobile frontends using Flutter and Dart.
 - **Focus:** Scalable architectures, clean dark-themed UI design, and problem-solving.
 
