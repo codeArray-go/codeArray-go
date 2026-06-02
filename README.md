@@ -9,9 +9,9 @@ Building scalable backend systems, and modern cross-platform experiences.
 
 ## About Me
 
-- 💻 **Full Stack Developer** specializing in Rust, Flutter, MERN stack, and PostgreSQL.
+- **Full Stack Developer** specializing in Rust, Flutter, MERN stack, and PostgreSQL.
 - **Currently Building:** Bitcoin in Rust from scratch.
-- 📱 **Mobile Dev:** Implements cross-platform mobile frontends using Flutter and Dart.
+- **Mobile Dev:** Implements cross-platform mobile frontends using Flutter and Dart.
 - **Focus:** Scalable architectures, clean dark-themed UI design, and problem-solving.
 
 ---
@@ -134,7 +134,7 @@ Building scalable backend systems, and modern cross-platform experiences.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
 
@@ -156,6 +156,6 @@ Building scalable backend systems, and modern cross-platform experiences.
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 
-> I build real-time apps by day… and secretly I'm Batman at night 🦇😄
+> I build real-time apps by day… and secretly I'm Batman at night 🦇😹
