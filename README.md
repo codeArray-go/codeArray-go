@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhil Singh Bhandari</h1>
-<h3 align="center">Full Stack Website | Mobile App Developer</h3>
+<h3 align="center">Full Stack Website | Mobile App | Blockchain Developer </h3>
 
 <p align="center">
 Building scalable backend systems, and modern cross-platform experiences.
