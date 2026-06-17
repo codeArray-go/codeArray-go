@@ -9,8 +9,8 @@ Building scalable backend systems, and modern cross-platform experiences.
 
 ## About Me
 
-- **Full Stack Developer** specializing in Rust, Flutter, MERN stack, and PostgreSQL.
-- **Currently Building:** Bitcoin in Rust from scratch.
+- **Full Stack Developer** specializing in Rust + Blockchain, Flutter, MERN stack, and PostgreSQL.
+- **Currently Building:** Bitcoin in Rust from scratch in Rust.
 - **Mobile Dev:** Implements cross-platform mobile frontends using Flutter and Dart.
 - **Focus:** Scalable architectures, clean dark-themed UI design, and problem-solving.
 
@@ -129,6 +129,8 @@ Building scalable backend systems, and modern cross-platform experiences.
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=codeArray-go&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codeArray-go&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
+<img src="https://streak-stats.demolab.com?user=codeArray-go&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 
 </p>
 
