@@ -10,7 +10,7 @@ Building scalable backend systems, and modern cross-platform experiences.
 ## About Me
 
 - **Full Stack Developer** specializing in Rust + Blockchain, Flutter, MERN stack, and PostgreSQL.
-- **Currently Building:** Bitcoin in Rust from scratch in Rust.
+- **Currently Building:** Bitcoin from scratch in Rust.
 - **Mobile Dev:** Implements cross-platform mobile frontends using Flutter and Dart.
 - **Focus:** Scalable architectures, clean dark-themed UI design, and problem-solving.
 
@@ -139,19 +139,14 @@ Building scalable backend systems, and modern cross-platform experiences.
 ## Connect With Me
 
 <p align="center">
-
 <a href="https://github.com/codeArray-go">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" alt="GitHub" />
+  </picture>
 </a>
-
-<a href="https://www.linkedin.com/in/akhil-singh-bhandari-4267a4310/">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" />
-</picture>
+<a href="https://www.instagram.com/a_.kh.il">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="32" alt="Instagram" />
 </a>
 
 </p>
