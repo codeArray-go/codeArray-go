@@ -2,16 +2,19 @@
 <h3 align="center">Full Stack Website | Mobile App | Blockchain Developer </h3>
 
 <p align="center">
-Building scalable backend systems, and modern cross-platform experiences.
+Love to work on new modern and updated tech.
 </p>
 
 ---
 
 ## About Me
 
-- **Full Stack Developer** specializing in Rust + Blockchain, Flutter, MERN stack, and PostgreSQL.
-- **Currently Building:** Bitcoin from scratch in Rust.
+- **Core Stack:** Rust for blockchain alongside Full-stack web and cross-platform mobile development.
+
+- **Currently Building:** Building a custom blockchain network from scratch using the Rust language.
+
 - **Mobile Dev:** Implements cross-platform mobile frontends using Flutter and Dart.
+
 - **Focus:** Scalable architectures, clean dark-themed UI design, and problem-solving.
 
 ---
@@ -103,7 +106,6 @@ Building scalable backend systems, and modern cross-platform experiences.
 
 <br>
 
-
 ---
 
 ## 📂 Featured Projects
@@ -153,6 +155,6 @@ Building scalable backend systems, and modern cross-platform experiences.
 
 ---
 
-##  Fun Fact
+## Fun Fact
 
-> I build real-time apps by day… and secretly I'm Batman at night 🦇😹
+> I used to code by day… and secretly I'm Batman at night 🦇😹
