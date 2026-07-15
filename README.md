@@ -130,7 +130,9 @@ Love to work on new modern and updated tech.
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=codeArray-go&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codeArray-go&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codeArray-go&layout=compact&theme=tokyonight&hide_border=true" height="150"/> -->
+
+<img src="https://github-stats-extended-frontend-coral.vercel.app/api/top-langs/?username=codeArray-go&count_private=true&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 
 <img src="./profile/streak.svg" height="150"/>
 
