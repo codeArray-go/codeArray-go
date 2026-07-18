@@ -128,11 +128,11 @@ Love to work on new modern and updated tech.
 
 <p align="center">
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=codeArray-go&show_icons=true&theme=tokyonight&hide_border=true&width=300&height=150" height="150" width="300" alt="GitHub Stats Card" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=codeArray-go&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats Card" />
 
-  <img src="./profile/streak.svg" height="150" width="300" alt="GitHub Streak Card" />
+  <img src="./profile/streak.svg" height="150" alt="GitHub Streak Card" />
 
-  <img src="https://github-stats-extended-frontend-coral.vercel.app/api/top-langs/?username=codeArray-go&count_private=true&layout=compact&theme=tokyonight&hide_border=true&width=300&height=150" height="150" width="300" alt="Top Languages Card" />
+  <img src="https://github-stats-extended-frontend-coral.vercel.app/api/top-langs/?username=codeArray-go&count_private=true&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages Card" />
   
 </p>
 
