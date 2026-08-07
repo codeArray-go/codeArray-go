@@ -13,9 +13,9 @@ Love to work on new modern and updated tech.
 
 - **Currently Building:** Building a custom blockchain network from scratch using the Rust language.
 
-- **Mobile Dev:** Implements cross-platform mobile frontends using Flutter and Dart.
+- **Mobile Dev:** Implements cross-platform mobile frontends using Dioxus & Flutter.
 
-- **Focus:** Scalable architectures, clean dark-themed UI design, and problem-solving.
+- **Focus:** Scalable architectures & problem-solving.
 
 ---
 
@@ -40,16 +40,24 @@ Love to work on new modern and updated tech.
       <br><strong>Java</strong>
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
-      <br><strong>Dart</strong>
-    </td>
-    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br><strong>Git</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br><strong>Linux</strong>
     </td>
   </tr>
   
   <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=actix" width="48" height="48" alt="actix_web" />
+      <br><strong>Actix_Web</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://dioxuslabs.com/assets/smalllogo-dxhd716b9dbfd1a6670.png" width="48" height="48" alt="Dioxus" style="background-color: #242938; border-radius: 10px;" />
+      <br><strong>Dioxus</strong>
+    </td>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       <br><strong>React</strong>
@@ -66,6 +74,9 @@ Love to work on new modern and updated tech.
       <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
       <br><strong>Flutter</strong>
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       <br><strong>Node.js</strong>
@@ -74,9 +85,6 @@ Love to work on new modern and updated tech.
       <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
       <br><strong>Express</strong>
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br><strong>PostgreSQL</strong>
@@ -93,13 +101,12 @@ Love to work on new modern and updated tech.
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br><strong>Docker</strong>
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
       <br><strong>Cloudflare</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br><strong>Linux</strong>
     </td>
   </tr>
 </table>
