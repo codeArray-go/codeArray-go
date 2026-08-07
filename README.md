@@ -145,23 +145,6 @@ Love to work on new modern and updated tech.
 
 ---
 
-## Connect With Me
-
-<p align="center">
-<a href="https://github.com/codeArray-go">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" alt="GitHub" />
-  </picture>
-</a>
-<a href="https://www.instagram.com/a_.kh.il">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="32" alt="Instagram" />
-</a>
-
-</p>
-
----
-
 ## Fun Fact
 
 > I used to code by day… and secretly I'm Batman at night 🦇😹
