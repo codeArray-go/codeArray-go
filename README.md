@@ -119,12 +119,16 @@ Love to work on new modern and updated tech.
 
 <div align="center">
 
-<a href="https://github.com/codeArray-go/Chat_App">
-  <img width="48%" src="https://github-stats-extended-frontend-coral.vercel.app/api/pin/?username=codeArray-go&repo=Chat_App&theme=tokyonight&text_color=c5c5c5&title_color=ffffff&hide_border=true&description_lines=2" />
+<a href="https://github.com/codeArray-go/chat-app">
+  <img width="48%" src="https://github-stats-extended-frontend-coral.vercel.app/api/pin/?username=codeArray-go&repo=chat-app&theme=tokyonight&text_color=c5c5c5&title_color=ffffff&hide_border=true&description_lines=2" />
 </a>
 
 <a href="https://github.com/codeArray-go/genesis-bitcoin-rs">
   <img width="48%" src="https://github-stats-extended-frontend-coral.vercel.app//api/pin/?username=codeArray-go&repo=genesis-bitcoin-rs&theme=tokyonight&text_color=c5c5c5&title_color=ffffff&hide_border=true&description_lines=2" />
+</a>
+
+<a href="https://github.com/codeArray-go/msct-rs">
+  <img width="48%" src="https://github-stats-extended-frontend-coral.vercel.app//api/pin/?username=codeArray-go&repo=msct-rs&theme=tokyonight&text_color=c5c5c5&title_color=ffffff&hide_border=true&description_lines=2" />
 </a>
 
 </div>
