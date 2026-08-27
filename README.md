@@ -11,7 +11,7 @@ Love to work on new modern and updated tech.
 
 - **Core Stack:** Rust for blockchain alongside Full-stack web and cross-platform mobile development.
 
-- **Currently Building:** Building a custom blockchain network from scratch using the Rust language.
+- **Currently Building:** Building a custom p2p gossip protocol from scratch using UDP in Rust.
 
 - **Mobile Dev:** Implements cross-platform mobile frontends using Dioxus & Flutter.
 
